@@ -1,0 +1,27 @@
+body {
+    background: white;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  footer {
+    float: bottom;
+  }
+  .quote {
+    float: right;
+  }
+  .motivate {
+    float: right;
+  }
+  .country {
+    color: red;
+  }
+  .links {
+    color: green;
+  }
+  
